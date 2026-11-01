@@ -3,7 +3,6 @@
 **Undergraduate course project (student research prototype)**  
 **Marmara University · Bioengineering · BIOE 4266 Analytical Techniques in Bioengineering · Spring 2025–2026**  
 **Student researchers:** Pınar Nur Özdemir and Öykü Akdeniz  
-**Programming implementation:** Pınar Nur Özdemir (with AI-assisted coding tools)
 
 **Research prototype:** Robustness-scored bioinformatics workflow for exploratory biomarker prioritization in LC-MS/MS proteomic data.
 
